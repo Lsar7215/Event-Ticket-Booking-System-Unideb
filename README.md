@@ -1,2 +1,3 @@
-# Event-Ticket-Booking-System-Unideb
-A full-stack Event Ticket Booking System that allows users to browse events, book tickets with seat capacity validation, and enables administrators to manage events, bookings, and reports.
+## About This Project
+This project was developed as part of the **Software Development Methodology** class.  
+The goal is to design and implement an **Event Ticket Booking System** to demonstrate requirements gathering, design, implementation, and testing.
